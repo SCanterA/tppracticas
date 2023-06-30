@@ -1,0 +1,17 @@
+menu{
+    background: hsl(141, 130, 190);
+    padding: 0%;
+    margin: 0%;
+}
+menu ul{
+    display: flex;
+    margin: 0;
+    padding: 0%;
+    list-style: none;
+}
+menu ul li a{
+display: block;
+color: rgb(0, 0, 0);
+padding: 10px 15px;
+
+}
